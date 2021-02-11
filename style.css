@@ -26,6 +26,7 @@ img {
       li p { line-height: 1.25em; }
       .red { color: red; }
 	
+      .cyan { color: cyan; }
       .green { color: #4c9170; }
       .blue { color: #2137B2; }
       .large { font-size: 2em; }
